@@ -52,14 +52,17 @@ This project leverages Magenta's pre-trained models for:
 - [ ] Add more musical styles/datasets
 - [ ] Performance optimization for real-time generation
 
+
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This code is licensed under the [MIT License](LICENSE). However, note that:
+- Dependencies (TensorFlow, Magenta) are Apache 2.0 licensed
+- Generated music may contain patterns from training data
+- Use responsibly and check data source licensing
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues.
 
----
 
-**Note:** The repository name is obfuscated using leetspeak. Consider renaming it to something more descriptive like `music-generation` or `deepmusic` for better discoverability.
+
